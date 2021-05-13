@@ -1,0 +1,8 @@
+{
+    "name": "Test Employee List",
+    "short_name": "EmployeeList",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A simply employee list app."
+  }
