@@ -11,7 +11,7 @@ const generateBuild = async () => {
     minify: true,
     bundle: true,
     sourcemap: true,
-    target: ['chrome58', 'firefox57', 'edge16'],
+    // target: ['chrome58', 'firefox57', 'edge16'],
     loader: { ".svg": "dataurl", ".png": "dataurl" },
     define: {
       'process.env.NODE_ENV': "'production'",
